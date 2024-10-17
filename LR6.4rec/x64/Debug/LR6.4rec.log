@@ -1,0 +1,3 @@
+﻿  LR6.4rec.cpp
+C:\Users\hp\source\repos\LR6.4rec\LR6.4rec\LR6.4rec.cpp(134,9): warning C4101: 'x': unreferenced local variable
+  LR6.4rec.vcxproj -> C:\Users\hp\source\repos\LR6.4rec\x64\Debug\LR6.4rec.exe
